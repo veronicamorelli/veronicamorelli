@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veronicamorelli
-- 👀 I’m interested in statistics, data science and programming especially in R
-- 🌱 I’m currently learning Data Science and Economics at Università degli Studi di Milano
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Data Science at University of Milan Bicocca
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
