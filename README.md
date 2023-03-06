@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @veronicamorelli
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Data Science at University of Milan Bicocca
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
