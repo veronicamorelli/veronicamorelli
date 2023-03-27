@@ -5,7 +5,7 @@ Data Science Master Student at the University of Milan-Bicocca. I'm currently a 
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [veronicamorelli99@yahoo.com](mailto:veronicamorelli99@yahoo.com)
-* 💻   I'm interested in Machine Learning and Deep Learning applications.
+* 💻  I'm interested in Machine Learning and Deep Learning applications.
 * 🧠  I'm writing my master thesis at RSIm. I'm learning Transformer-based methods for Multi-Modal Remote Sensing Image Semantic Segmentation.
 
 ### Skills
