@@ -1,8 +1,9 @@
 Hi 👋 My name is Veronica Morelli
 =================================
 
-Data Science Master Student at the University of Milan-Bicocca. I'm currently a visiting research assistant at the Remote Sensing Image Analysis Group (RSIm) at the Technical University of Berlin. Would-be Data Scientist and Machine Learning Engineer in Berlin. 
+Data Science Master Student at the University of Milan-Bicocca. I'm currently a visiting research assistant at the Remote Sensing Image Analysis Group (RSIm) at the Technical University of Berlin. 
 
+* 🎓 I'm graduated in Statistics and Information Management. 
 * 🌍 I'm based in Berlin
 * 💻 I'm interested in Machine Learning and Deep Learning applications.
 * 🧠 I'm writing my master thesis at RSIm. I'm learning Transformer-based methods for Multi-Modal Remote Sensing Image Semantic Segmentation.
