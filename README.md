@@ -3,6 +3,8 @@ Hi 👋 My name is Veronica Morelli
 
 Data Science Master Student at the University of Milan-Bicocca. Student Research Assistant at Fraunhofer HHI in Berlin.  
 
+I'm currently working on Gitlab :) but in this page you can find some of my university projects.
+
 * 🎓 Bsc in Statistics and Information Management.
 * 🌍 I'm based in Berlin.
 * 🧠 I wrote my master thesis at the Remote Sensing Image Analysis Group (RSIm) at TU Berlin. 
