@@ -10,7 +10,6 @@ I'm currently working on Gitlab :) but in this page you can find some of my univ
 * 🧠 I wrote my master thesis at the Remote Sensing Image Analysis Group (RSIm) at TU Berlin. 
   My topic is Multi-Modal Fusion Methods with Vision Transformers for RS images semantic segmentation.
 * 💻 I'm interested in Machine Learning and Deep Learning applications.
-* ⭐ I would like to become great Data Scientist and Machine Learning Engineer.
 * ✉️ You can contact me at [veronicamorelli99@yahoo.com](mailto:veronicamorelli99@yahoo.com)
 
 ### Skills
