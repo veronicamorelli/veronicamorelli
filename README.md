@@ -10,7 +10,7 @@ I'm currently working on Gitlab :) but in this page you can find some of my univ
 * 💻 I'm interested in Machine Learning and Deep Learning applications.
 * 🧠 I wrote my master thesis at the Remote Sensing Image Analysis Group (RSIm) at TU Berlin. 
   My topic is Multi-Modal Fusion Methods with Vision Transformers for RS images semantic segmentation.
-* 📝 I wrote a paper MULTIMODAL FUSION METHODS WITH VISION TRANSFORMERS FOR REMOTE SENSING SEMANTIC SEGMENTATION. By *Veronica Grazia Morelli, Mirko Paolo Barbato, Flavio Piccoli, Paolo Napoletano*. Paper will be published after IEEE Whisper Conference 30/10-2/11 2023.
+* 📝 I wrote a paper titled MULTIMODAL FUSION METHODS WITH VISION TRANSFORMERS FOR REMOTE SENSING SEMANTIC SEGMENTATION. By *Veronica Grazia Morelli, Mirko Paolo Barbato, Flavio Piccoli, Paolo Napoletano*. Paper will be published after IEEE Whisper Conference 30/10-2/11 2023.
 * ✉️ You can contact me at [veronicamorelli99@yahoo.com](mailto:veronicamorelli99@yahoo.com)
 
 ### Skills
