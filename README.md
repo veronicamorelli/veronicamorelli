@@ -3,7 +3,7 @@ Hi 👋 My name is Veronica Morelli
 
 Machine Learning Research Assistant at Fraunhofer HHI in Berlin. Data Science Master Student at the University of Milan-Bicocca. 
 
-I'm currently working on Gitlab :) but in this page you can find some of my university projects.
+I'm currently working on Gitlab :) but in this page you can find some of my university projects. Thesis code is still working in progress.
 
 * 🎓 Bsc in Statistics and Information Management.
 * 🌍 I'm based in Berlin.
