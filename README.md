@@ -5,7 +5,7 @@ Working Student Deep Learning at Signatrix in Berlin. Data Science Master Studen
 
 :books:	I did my bachelor in Statistics and Information Management.
 
-:crossed_fingers: I should graduate in end of March 2024
+:crossed_fingers: I will graduate in end of March 2024
 
 I wrote a paper: "Multimodal Fusion Methods with Vision Transformers For Remote Sensing Semantic Segmentation"
 IEEE Whispers 2023: Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing*, Athens 2023
