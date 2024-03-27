@@ -3,11 +3,8 @@ Hi 👋 My name is Veronica Morelli
 
 💻: Working Student Deep Learning at Signatrix in Berlin. 
 
-📚: Data Science Master Student at the University of Milan-Bicocca.
-
-👩‍🎓:	I did my bachelor in Statistics and Information Management.
-
-🙂: I will graduate in end of March 2024
+👩‍🎓: I did my bachelor in Statistics and Information Management. 
+👩‍🎓: I did my bachelor in Data Science at the University of Milan-Bicocca.
 
 Have a look to my paper:
 
