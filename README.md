@@ -1,7 +1,7 @@
 Hi 👋 My name is Veronica Morelli
 =================================
 
-💻: Working Student Deep Learning at Signatrix in Berlin. 
+💻: Junior Deep Learning at Signatrix in Berlin. 
 
 👩‍🎓: I did my bachelor in Statistics and Information Management. 
 
