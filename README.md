@@ -3,9 +3,8 @@ Hi 👋 My name is Veronica Morelli
 
 💻: Junior Deep Learning at Signatrix in Berlin. 
 
-👩‍🎓: I did my bachelor in Statistics and Information Management. 
-
-👩‍🎓: I did my bachelor in Data Science at the University of Milan-Bicocca.
+👩‍🎓: Bsc in Statistics and Information Management. 
+👩‍🎓: Msc in Data Science at the University of Milan-Bicocca.
 
 Have a look to my paper:
 
