@@ -1,7 +1,7 @@
 Hi 👋 My name is Veronica Morelli
 =================================
 
-💻: Deep Learning Engineer at Signatrix in Berlin. 
+💻: Data Scientist at Fuchs und Eule in Berlin 
 
 👩‍🎓: Bsc in Statistics and Information Management. 
 👩‍🎓: Msc in Data Science at the University of Milan-Bicocca.
